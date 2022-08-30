@@ -1,11 +1,10 @@
+# Hi there, I'm Keiny Pacheco! 👋
+### An enthusiastic web developer from Colombia 
 
-<h1 align="center">Hi 👋, I'm Keiny</h1>
-<h3 align="center">An enthusiastic web developer from Colombia</h3>
-
-🌱 I’m currently learning and mastering **React and Rails**
-
+- 💃🏻 I'm a software engineer, I'm creative and I love music as well
+- 🌱 I’m currently learning and mastering **React and Rails**
 ### Technologies & Tools
- 
+
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
