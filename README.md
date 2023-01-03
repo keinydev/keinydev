@@ -1,5 +1,5 @@
 # Hi there, I'm Keiny Pacheco! 👋
-### An enthusiastic web developer from Colombia 
+### An enthusiastic software developer from Colombia 
 
 - 💃🏻 I'm a software engineer, I'm creative and I love music as well
 - 🌱 I’m currently learning and mastering **React and Rails**
