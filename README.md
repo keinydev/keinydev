@@ -1,8 +1,23 @@
 # Hi there, I'm Keiny Pacheco! 👋
-### An enthusiastic software developer from Colombia 
 
-- 💃🏻 I'm a software engineer, I'm creative and I love music as well
-- 🌱 I’m currently learning and mastering **React and Rails**
+### 💃 An enthusiastic software engineer from Colombia 
+
+I am a software engineer whose mission is to **create scalable and secure software**, contributing from the backend part. I am open to leading work teams and contributing at the product level to create innovative products.
+
+Every day I learn more about software architecture, cybersecurity and how to create scalable products for thousands of users.
+
+I am self-taught and I am open to learning new technologies to provide solutions through software.
+
+Currently working with Ruby.
+
+### See my gists (mini tutorials)
+
+- [Basic bash commands](https://gist.github.com/keinydev/ff91bd7a51d0171ab71fc965db2d5a0c)
+
+### See my educational content in Spanish
+
+[![](https://img.shields.io/badge/SlideShare-008ED2.svg?style=for-the-badge&logo=SlideShare&logoColor=white)](https://www.slideshare.net/KeinyTatianaPachecoC)
+
 ### Technologies & Tools
 
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -19,3 +34,4 @@
 ### Connect with me  
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keinydev)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keinypachecocarcamo) 
+
