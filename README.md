@@ -2,9 +2,9 @@
 
 ### 💃 An enthusiastic software engineer from Colombia 
 
-I am a software engineer whose mission is to **create scalable and secure software**, contributing from the backend part. I am open to leading work teams and contributing at the product level to create innovative products.
+Software engineer with more than 6 years of experience in web development. My mission is to create scalable and secure software, contributing to backend development. 
 
-Every day I learn more about software architecture, cybersecurity and how to create scalable products for thousands of users.
+I implement good practices and every day I learn more about software architecture, cybersecurity and how to create scalable products for thousands of users.
 
 I am self-taught and I am open to learning new technologies to provide solutions through software.
 
