@@ -1,14 +1,14 @@
 # Hi there, I'm Keiny Pacheco! 👋
 
-### 💃 An enthusiastic software engineer from Colombia 
+### I'm a Software engineer from  🇨🇴
 
-Software engineer with more than 6 years of experience in web development. My mission is to create scalable and secure software, contributing to backend development. 
+My mission is to create scalable and secure software, contributing to backend development. 
 
-I implement good practices and every day I learn more about software architecture, cybersecurity and how to create scalable products for thousands of users.
+I implement good practices and every day I learn more about software architecture and how to create scalable products for thousands of users.
 
 I am self-taught and I am open to learning new technologies to provide solutions through software.
 
-Currently working with Ruby.
+Currently working with Ruby and Typescript
 
 ### See my gists (mini tutorials)
 
@@ -25,7 +25,7 @@ Currently working with Ruby.
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
