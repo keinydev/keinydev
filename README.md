@@ -2,13 +2,15 @@
 
 ### I'm a Software engineer from  🇨🇴
 
-My mission is to create scalable and secure software, contributing to backend development. 
+I am a Software Engineer specializing in backend development with a strong focus on Ruby, NestJS, and TypeScript. My mission is to create scalable and secure software solutions, contributing significantly to backend development.
 
-I implement good practices and every day I learn more about software architecture and how to create scalable products for thousands of users.
+By implementing best practices and continually learning about software architecture, I aim to develop scalable products that serve thousands of users efficiently.
 
-I am self-taught and I am open to learning new technologies to provide solutions through software.
+I am always eager to learn new technologies and leverage them to provide effective software solutions.
 
-Currently working with Ruby and Typescript
+Currently working with Ruby, TypeScript, and NestJS.
+
+Skills: Ruby, PHP, MySQL, DynamoDB, AWS Lambdas, PostgreSQL, JavaScript, TypeScript
 
 ### See my gists (mini tutorials)
 
