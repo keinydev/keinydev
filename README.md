@@ -1,16 +1,14 @@
 # Hi there, I'm Keiny Pacheco! 👋
 
-### I'm a Software engineer from  🇨🇴
+### Backend Engineer | Software Engineer from 🇨🇴 | Remote
 
-I am a Software Engineer specializing in backend development with a strong focus on Ruby, NestJS, and TypeScript. My mission is to create scalable and secure software solutions, contributing significantly to backend development.
+I’m a Software Engineer and Backend Engineer working remotely in FinTech, building high-volume payment systems and platforms with fraud prevention capabilities.
 
-By implementing best practices and continually learning about software architecture, I aim to develop scalable products that serve thousands of users efficiently.
+I specialize in designing and improving backend services that validate transactions, enforce risk controls, and support critical financial workflows. I have experience with 3D Secure (3DS) authentication flows and distributed, scalable systems.
 
-I am always eager to learn new technologies and leverage them to provide effective software solutions.
+I’m continuously deepening my expertise in cloud architecture and scalable system design, with a strong focus on AWS and maintainable backend architectures.
 
-Currently working with Ruby, TypeScript, and NestJS.
-
-Skills: Ruby, PHP, MySQL, DynamoDB, AWS Lambdas, PostgreSQL, JavaScript, TypeScript
+**Currently working with:** Ruby, TypeScript, NestJS, AWS  
 
 ### See my gists (mini tutorials)
 
