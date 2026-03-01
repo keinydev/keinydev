@@ -10,13 +10,9 @@ I’m continuously deepening my expertise in cloud architecture and scalable sys
 
 **Currently working with:** Ruby, TypeScript, NestJS, AWS  
 
-### See my gists (mini tutorials)
-
+### Educational content
 - [Basic bash commands](https://gist.github.com/keinydev/ff91bd7a51d0171ab71fc965db2d5a0c)
-
-### See my educational content in Spanish
-
-[![](https://img.shields.io/badge/SlideShare-008ED2.svg?style=for-the-badge&logo=SlideShare&logoColor=white)](https://www.slideshare.net/KeinyTatianaPachecoC)
+- [Slideshare](https://www.slideshare.net/KeinyTatianaPachecoC)
 
 ### Technologies & Tools
 
